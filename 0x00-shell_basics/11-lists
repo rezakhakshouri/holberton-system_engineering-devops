@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -laRF
+ls -l . /home/student/holberton-system_engineering-devops/ /boot
+
