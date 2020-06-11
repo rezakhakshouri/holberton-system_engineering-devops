@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u ./*.html /home/student/holberton-system_engineering-devops
+cp -u ./*.html ../
