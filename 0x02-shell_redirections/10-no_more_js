@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type f *.rj exec rm -r {}\;
+find . -type f -name "*.rj" exec rm -r {}\;
